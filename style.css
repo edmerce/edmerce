@@ -13,6 +13,10 @@ body {
   bottom: 0;
 }
 
+title {
+  text-transform: uppercase;
+}
+
 #hero-cn {
   font-family: "Noto Serif SC", serif;
   margin-bottom: -10px;
@@ -25,9 +29,14 @@ body {
   text-transform: uppercase;
 }
 
-#hero-en-text {
-  font-size: 14.7px;
+#hero-remarks {
+  font-size: 13.3px;
   color: #e30715;
+}
+
+#hero-cta {
+  font-size: 13.3px;
+  color: #ccc;
 }
 
 main {
@@ -38,4 +47,9 @@ main {
   margin-bottom: 50px;
   text-align: center;
   /* align-items: flex-start; */
+}
+
+footer {
+  font-size: 12px;
+  color: #666;
 }
