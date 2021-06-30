@@ -18,7 +18,7 @@ title {
 }
 
 #hero-title {
-  font-size: 16px;
+  font-size: 14px;
   font-family: "Archivo", sans-serif;
   font-weight: 900;
   font-stretch: 125%;
@@ -37,12 +37,12 @@ title {
 }
 
 #hero-remarks {
-  font-size: 13.3px;
+  font-size: 12.5px;
   color: #e30715;
 }
 
 #hero-cta {
-  font-size: 13.3px;
+  font-size: 12.5px;
   color: #aaa;
 }
 
